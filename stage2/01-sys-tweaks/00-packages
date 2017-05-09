@@ -5,7 +5,6 @@ python-rpi.gpio v4l-utils
 hardlink
 fake-hwclock usbutils
 dosfstools
-dphys-swapfile
 raspberrypi-sys-mods
 usb-modeswitch
 libpam-chksshpwd
